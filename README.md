@@ -1,6 +1,11 @@
+https://app.netlify.com/projects/cart-management-system-assignment/overview
 # Simple Cart Management System
 
 A basic React/Next.js application for managing shopping cart with customer and admin views.
+
+<img width="1042" height="543" alt="image" src="https://github.com/user-attachments/assets/067acc21-5bf2-4380-9d57-f211fe32dc20" />
+<img width="1310" height="520" alt="image" src="https://github.com/user-attachments/assets/01df85f6-f893-43cf-9396-8b1c32696fea" />
+
 
 ## Features
 
